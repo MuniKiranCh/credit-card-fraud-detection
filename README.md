@@ -38,8 +38,8 @@ pip install -r requirements.txt
 # 3. Run the complete pipeline
 python run.py
 ```
-
-**That's it!** Full training and evaluation in one command. No Jupyter notebooks required!
+<!-- 
+**That's it!** Full training and evaluation in one command. No Jupyter notebooks required! -->
 
 ---
 
@@ -214,7 +214,7 @@ Estimated annual savings: $24,000+
 ```
 
 ---
-
+<!-- 
 ## 🎓 Machine Learning Concepts Demonstrated
 
 ### 1. **Supervised Learning**
@@ -261,9 +261,9 @@ Binary classification problem with labeled data (fraud/legitimate)
 3. **Reproducibility**: Fixed random seeds, saved models
 4. **Best Practices**: Type hints, error handling, logging
 
----
+--- -->
 
-## 📊 Dataset Information
+<!-- ## 📊 Dataset Information
 
 **Source**: [Kaggle - Credit Card Fraud Detection Dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud)
 
@@ -278,7 +278,7 @@ Binary classification problem with labeled data (fraud/legitimate)
   - Amount: Transaction amount
   - Class: Target variable (0 = Legitimate, 1 = Fraud)
 
-**Challenge**: Extreme class imbalance makes traditional ML models ineffective
+**Challenge**: Extreme class imbalance makes traditional ML models ineffective -->
 
 ---
 
@@ -302,7 +302,7 @@ Binary classification problem with labeled data (fraud/legitimate)
 - [ ] Model monitoring and drift detection
 
 ---
-
+<!-- 
 ## 🎯 Key Takeaways
 
 ### Technical Learnings
@@ -319,7 +319,7 @@ Binary classification problem with labeled data (fraud/legitimate)
 - ✅ Model comparison and selection
 - ✅ Code modularity and documentation
 
----
+--- -->
 
 ## 📚 References
 
@@ -329,13 +329,13 @@ Binary classification problem with labeled data (fraud/legitimate)
 4. scikit-learn Documentation: https://scikit-learn.org/
 5. XGBoost Documentation: https://xgboost.readthedocs.io/
 
----
+<!-- ---
 
 ## 🙏 Acknowledgments
 
 - Dataset provided by [Machine Learning Group - ULB](https://www.kaggle.com/mlg-ulb/creditcardfraud)
 - Inspired by real-world fraud detection challenges in financial industry
-- Built with ❤️ using Python and scikit-learn ecosystem
+- Built with ❤️ using Python and scikit-learn ecosystem -->
 
 ---
 
