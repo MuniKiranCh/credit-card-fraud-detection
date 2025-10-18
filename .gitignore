@@ -93,13 +93,11 @@ htmlcov/
 # Documentation (Keep Local Only)
 # -----------------------------------------------------------------------------
 # Keep learning guides local - push only README.md for GitHub
-HOW_TO_EXPLAIN.md
+HOW_TO_EXPLAINS.md
 TOPICS_TO_LEARN.md
 QUICK_REFERENCE.md
+HOW_TO_EXPLAIN_ALGORITHM.md
 WHAT_GETS_PUSHED.txt
-HOW_TO_EXPLAIN.md
-TOPICS_TO_LEARN.md
-QUICK_REFERENCE.md
 
 # =============================================================================
 # WHAT GETS PUSHED TO GITHUB:
