@@ -280,7 +280,7 @@ Binary classification problem with labeled data (fraud/legitimate)
 
 **Challenge**: Extreme class imbalance makes traditional ML models ineffective -->
 
----
+<!-- --- -->
 
 ## 🔬 Future Enhancements
 
@@ -320,14 +320,14 @@ Binary classification problem with labeled data (fraud/legitimate)
 - ✅ Code modularity and documentation
 
 --- -->
-
+<!-- 
 ## 📚 References
 
 1. Chawla, N. V., et al. (2002). "SMOTE: Synthetic Minority Over-sampling Technique"
 2. Chen, T., & Guestrin, C. (2016). "XGBoost: A Scalable Tree Boosting System"
 3. Kaggle Credit Card Fraud Detection Dataset
 4. scikit-learn Documentation: https://scikit-learn.org/
-5. XGBoost Documentation: https://xgboost.readthedocs.io/
+5. XGBoost Documentation: https://xgboost.readthedocs.io/ -->
 
 <!-- ---
 
@@ -337,7 +337,7 @@ Binary classification problem with labeled data (fraud/legitimate)
 - Inspired by real-world fraud detection challenges in financial industry
 - Built with ❤️ using Python and scikit-learn ecosystem -->
 
----
+<!-- --- -->
 
 <div align="center">
 
