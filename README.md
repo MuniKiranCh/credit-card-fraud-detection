@@ -23,6 +23,27 @@ This project tackles the real-world challenge of credit card fraud detection on 
 
 ---
 
+## ⚡ Quick Start (3 Commands!)
+
+Get started in under 5 minutes:
+
+```bash
+# 1. Clone and install
+git clone https://github.com/MuniKiranCh/credit-card-fraud-detection.git
+cd credit-card-fraud-detection
+pip install -r requirements.txt
+
+# 2. Download dataset from Kaggle and place in data/creditcard.csv
+# https://www.kaggle.com/mlg-ulb/creditcardfraud
+
+# 3. Run the complete pipeline
+python run.py
+```
+
+**That's it!** Full training and evaluation in one command. No Jupyter notebooks required!
+
+---
+
 ## 📊 Model Performance
 
 | Model | Accuracy | Precision | Recall | F1-Score | ROC-AUC | Training Time |
@@ -40,13 +61,13 @@ This project tackles the real-world challenge of credit card fraud detection on 
 
 ---
 
-## 🚀 Quick Start
+## 🚀 Detailed Setup
 
 ### Prerequisites
 - Python 3.8 or higher
 - pip package manager
 
-### Installation
+### Step-by-Step Installation
 
 1. **Clone the repository**
 ```bash
@@ -63,16 +84,15 @@ pip install -r requirements.txt
 - Download from [Kaggle - Credit Card Fraud Detection](https://www.kaggle.com/mlg-ulb/creditcardfraud)
 - Place `creditcard.csv` in the `data/` folder
 
-4. **Run the project**
+4. **Run the complete pipeline** (automated training & evaluation)
 ```bash
 python run.py
 ```
 
-5. **Try the demo**
+5. **Try the interactive demo**
 ```bash
 python demo.py
 ```
-
 ---
 
 ## 📁 Project Structure
