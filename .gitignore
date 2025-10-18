@@ -93,6 +93,7 @@ htmlcov/
 # Documentation (Keep Local Only)
 # -----------------------------------------------------------------------------
 # Keep learning guides local - push only README.md for GitHub
+
 HOW_TO_EXPLAINS.md
 TOPICS_TO_LEARN.md
 QUICK_REFERENCE.md
